@@ -30,6 +30,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Stanley_J._Weyman
 description: A short and spellbinding Cinderella tale with a monkey, a cruel, crafty-eyed
   showman and the evil of the man in black, a charlatan and wizard.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39295#The-Man-in-Black
 gutenberg_issued: '2012-03-28'
 gutenberg_type: Text
 identifiers:
