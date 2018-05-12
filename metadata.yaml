@@ -1,0 +1,46 @@
+_repo: The-Man-in-Black_39295
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Paget, H. M. (Henry Marriott)
+    alias: Paget, Henry Marriott
+    birthdate: 1857
+    deathdate: 1936
+    gutenberg_agent_id: '33554'
+    url: http://www.gutenberg.org/2009/agents/33554
+  - agent_name: Paget, Walter
+    aliases:
+    - Paget, Wal. (Walter)
+    - Paget, W. (Walter)
+    birthdate: 1863
+    deathdate: 1935
+    gutenberg_agent_id: '9756'
+    url: http://www.gutenberg.org/2009/agents/9756
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Weyman, Stanley John
+    alias: Weyman, Stanley J. (Stanley John)
+    birthdate: 1855
+    deathdate: 1928
+    gutenberg_agent_id: '742'
+    url: http://www.gutenberg.org/2009/agents/742
+    wikipedia: http://en.wikipedia.org/wiki/Stanley_J._Weyman
+description: A short and spellbinding Cinderella tale with a monkey, a cruel, crafty-eyed
+  showman and the evil of the man in black, a charlatan and wizard.
+gutenberg_issued: '2012-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39295'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PR'
+- !lcsh 'France -- History -- Louis XIII, 1610-1643 -- Fiction'
+title: The Man in Black
+url: http://www.gutenberg.org/ebooks/39295
